@@ -3,7 +3,7 @@
 
 - **Name**: Rishabh Mittal
 - **Location**: Jaipur, Rajasthan, India
-- **Phone**: +91 9058716044
+- **Personal Email**: [rishabhmittal148@gmail.com](mailto:rishabhmittal148@gmail.com)
 - **Email**: [2021uch1835@mnit.ac.in](mailto:2021uch1835@mnit.ac.in)
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/iamrmittal/)
 
